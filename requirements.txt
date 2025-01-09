@@ -1,0 +1,8 @@
+pandas
+streamlit
+transformers
+langchain
+sentence-transformers
+faiss-cpu
+fpdf
+openpyxl
